@@ -1,3 +1,8 @@
+# phpsound-chinese-simplified
+Folked from raylee930/phpsound-chinese-traditional
+ 
+仅把繁体转换为简体，未做校对
+
 # phpsound-chinese-traditional
 
 
